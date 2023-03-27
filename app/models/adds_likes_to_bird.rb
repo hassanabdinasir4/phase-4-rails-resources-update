@@ -1,0 +1,2 @@
+class AddsLikesToBird < ApplicationRecord
+end
